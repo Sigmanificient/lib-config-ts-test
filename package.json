@@ -12,7 +12,7 @@
   },
   "description": "Test of lib-config-ts ",
   "engines": {
-    "node": "24.14.1"
+    "node": ">=24.19 <25"
   },
   "main": "src/index.ts",
   "name": "lib-config-ts-test",
